@@ -1,1 +1,1 @@
-2b || ! 2b
+throw new NullPointerException();
