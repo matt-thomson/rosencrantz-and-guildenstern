@@ -1,2 +1,2 @@
 throw new NullPointerException();
-throw nouveau NullPointerException();
+  throw nouveau NullPointerException();
